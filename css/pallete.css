@@ -1,0 +1,7 @@
+:root {
+    --header-color: #000000;
+    --menu-color: #3c3c3c;
+    --content-color: #646464;
+    --movie-card-color: #3c3c3c;
+    --footer-color: hsl(0, 0%, 0%);
+}
